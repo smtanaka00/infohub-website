@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College & Program Search - InfoHub</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">Your Logo</div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="college-search.html">College Search</a></li>
+                    <li><a href="resources.html">Resources</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+            <button class="cta-button">Book a Consultation</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="search-hero">
+            <div class="container">
+                <h1>Find Your Dream University</h1>
+                <p>Explore thousands of programs worldwide. Filter by country, field of study, and degree level to find your perfect match.</p>
+            </div>
+        </section>
+
+        <section class="search-filters">
+            <div class="container">
+                <h2>Search & Filter Programs</h2>
+                <form id="college-search-form">
+                    <div class="filter-group">
+                        <label for="country">Country:</label>
+                        <select id="country" name="country">
+                            <option value="">Select Country</option>
+                            <option value="usa">USA</option>
+                            <option value="uk">UK</option>
+                            <option value="canada">Canada</option>
+                            <option value="australia">Australia</option>
+                            <option value="germany">Germany</option>
+                            <!-- Add more countries as needed -->
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="field-of-study">Field of Study:</label>
+                        <input type="text" id="field-of-study" name="field-of-study" placeholder="e.g., Computer Science, Business">
+                    </div>
+                    <div class="filter-group">
+                        <label for="degree-level">Degree Level:</label>
+                        <select id="degree-level" name="degree-level">
+                            <option value="">Select Level</option>
+                            <option value="bachelor">Bachelor's</option>
+                            <option value="masters">Master's</option>
+                            <option value="phd">PhD</option>
+                            <option value="diploma">Diploma</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="primary-cta-button">Search Programs</button>
+                </form>
+            </div>
+        </section>
+
+        <section class="search-results">
+            <div class="container">
+                <h2>Search Results</h2>
+                <div id="results-container" class="results-grid">
+                    <!-- Search results will be dynamically loaded here -->
+                    <p class="no-results">Use the filters above to find programs.</p>
+                </div>
+                <div class="download-shortlist-container">
+                    <button id="download-shortlist-button" class="primary-cta-button" style="display: none;">Download Shortlist (PDF)</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-nav">
+                <ul>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Terms of Service</a></li>
+                </ul>
+            </div>
+            <div class="social-media">
+                <a href="#"><img src="images/facebook-icon.png" alt="Facebook"></a>
+                <a href="#"><img src="images/tiktok-icon.png" alt="TikTok"></a>
+                <a href="#"><img src="images/instagram-icon.png" alt="Instagram"></a>
+                <a href="https://wa.me/yourwhatsappnumber" target="_blank"><img src="images/whatsapp-icon.png" alt="WhatsApp"></a>
+            </div>
+            <p class="copyright">© 2023 InfoHub. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/college-search.js"></script>
+</body>
+</html>
