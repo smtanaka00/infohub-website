@@ -107,9 +107,17 @@ header .container {
 
 .logo {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.8em;
+    font-size: 1.8em; /* This might be overridden by image size, or can be removed if logo is purely image */
     font-weight: 700;
-    color: var(--primary-purple);
+    color: var(--primary-purple); /* Fallback if image fails to load */
+    display: flex; /* To align image if needed */
+    align-items: center;
+}
+
+.logo img {
+    max-height: 50px; /* Adjust as needed, controls the height of the logo */
+    width: auto; /* Maintain aspect ratio */
+    display: block; /* Remove extra space below image */
 }
 
 header nav ul {
@@ -645,6 +653,8 @@ footer .container {
     box-shadow: 0 4px 10px rgba(0,0,0,0.08);
     overflow: hidden;
     transition: transform 0.3s ease;
+    display: flex; /* Added for flex layout */
+    flex-direction: column; /* Stack items vertically */
 }
 
 .article-card:hover {
@@ -667,6 +677,7 @@ footer .container {
 .article-card p {
     padding: 0 20px;
     font-size: 0.95em;
+    flex-grow: 1; /* Allow paragraph to expand and push button to bottom */
 }
 
 .article-card .read-more {
