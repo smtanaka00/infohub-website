@@ -1,0 +1,57 @@
+/* Hero Section for Test Prep Page */
+.services-hero {
+    background-image: url('../images/services-hero.jpg'); /* You might want to change this to a more relevant image */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.services-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.services-hero p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Search Filters */
+.search-filters {
+    padding: 60px 0;
+    background-color: #f9f9f9;
+}
+
+.search-filters h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#tutor-search-form {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.button-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.button-group .primary-cta-button {
+    max-width: 220px;
+    padding: 0.5rem 1rem;
+    font-size: 0.95rem;
+}

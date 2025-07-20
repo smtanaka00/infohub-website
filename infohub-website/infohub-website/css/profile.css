@@ -1,0 +1,41 @@
+/* Profile Form Section */
+.profile-form-section {
+    padding: 60px 0;
+}
+
+.profile-form-section h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.profile-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Profile View Section */
+.profile-view-section {
+    padding: 60px 0;
+}
+
+.profile-view-section h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.profile-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.profile-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card h3 {
+    margin-top: 0;
+}
