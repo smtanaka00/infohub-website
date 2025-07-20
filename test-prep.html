@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - InfoHub</title>
+    <title>Test Prep - InfoHub</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/test-prep.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -27,20 +28,41 @@
     </header>
 
     <main>
-        <section class="about-hero">
+        <section class="services-hero">
             <div class="container">
-                <h1>Our Story: Empowering Zimbabwean Students</h1>
-                <p>At InfoHub, we believe in the transformative power of international education. Our journey began with a simple mission: to bridge the gap for ambitious Zimbabwean students seeking world-class opportunities abroad.</p>
+                <h1>SAT & GRE Test Preparation</h1>
+                <p>Expert tutoring and comprehensive resources to help you ace your exams and get into your dream school.</p>
             </div>
         </section>
 
-        <section class="our-mission">
+        <section class="search-filters">
             <div class="container">
-                <div class="content-grid">
-                    <div class="text-content">
-                        <h2>Our Mission & Values</h2>
-                        <p>We are dedicated to providing personalized, high-quality guidance that goes beyond just applications. We focus on understanding each student's unique aspirations, ensuring they find the right academic and career path.</p>
-                        <p>Our core values:</p>
+                <h2>Find Your Tutor</h2>
+                <form id="tutor-search-form">
+                    <div class="filter-group">
+                        <label for="subject">Subject:</label>
+                        <input type="text" id="subject" name="subject" placeholder="e.g., SAT Math">
+                    </div>
+                    <div class="filter-group">
+                        <label for="location">Location:</label>
+                        <input type="text" id="location" name="location" placeholder="e.g., Harare">
+                    </div>
+                    <div class="filter-group">
+                        <label for="availability">Availability:</label>
+                        <input type="text" id="availability" name="availability" placeholder="e.g., Weekends">
+                    </div>
+                    <button type="submit" class="primary-cta-button">Search Tutors</button>
+                </form>
+            </div>
+        </section>
+
+        <section class="service-category">
+            <div class="container">
+                <h2>Our Tutors</h2>
+                <div class="service-details-grid">
+                    <div class="service-details-item">
+                        <h3>Experienced & Qualified</h3>
+                        <p>Our tutors are top-scorers and experienced educators who are passionate about helping you succeed.</p>
                         <ul>
                             <li><!--
 category: Shapes
@@ -61,7 +83,7 @@ unicode: "ea67"
 >
   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
   <path d="M9 12l2 2l4 -4" />
-</svg><strong>Integrity:</strong> Honest and transparent advice.</li>
+</svg>Personalized study plans</li>
                             <li><!--
 category: Shapes
 tags: [accept, yes, tick, done]
@@ -81,7 +103,7 @@ unicode: "ea67"
 >
   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
   <path d="M9 12l2 2l4 -4" />
-</svg><strong>Excellence:</strong> Delivering top-tier support and resources.</li>
+</svg>Proven test-taking strategies</li>
                             <li><!--
 category: Shapes
 tags: [accept, yes, tick, done]
@@ -101,46 +123,14 @@ unicode: "ea67"
 >
   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
   <path d="M9 12l2 2l4 -4" />
-</svg><strong>Empowerment:</strong> Equipping students with the tools for success.</li>
-                            <li><!--
-category: Shapes
-tags: [accept, yes, tick, done]
-version: "1.0"
-unicode: "ea67"
--->
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
-  <path d="M9 12l2 2l4 -4" />
-</svg><strong>Empathy:</strong> Understanding and addressing individual needs.</li>
+</svg>Flexible scheduling</li>
                         </ul>
+                        <a href="view-profile.html" class="primary-cta-button">Meet Our Tutors</a>
+                        <a href="tutor-profile.html" class="primary-cta-button">Become a Tutor</a>
                     </div>
-                    <div class="image-content">
-                        <img src="images/our-mission.jpg" alt="Our Mission Image">
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="our-approach">
-            <div class="container">
-                <div class="content-grid reverse-grid">
-                    <div class="image-content">
-                        <img src="images/our-approach.jpg" alt="Our Approach Image">
-                    </div>
-                    <div class="text-content">
-                        <h2>Why Choose InfoHub?</h2>
-                        <p>In a world of overwhelming information, we stand out by offering a "quality over quantity" approach. We don't just process applications; we build relationships and provide holistic support that extends beyond admission.</p>
-                        <p>Our difference:</p>
+                    <div class="service-details-item">
+                        <h3>Students</h3>
+                        <p>Find the perfect tutor to help you achieve your academic goals and unlock your full potential.</p>
                         <ul>
                             <li><!--
 category: Shapes
@@ -161,7 +151,7 @@ unicode: "ea67"
 >
   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
   <path d="M9 12l2 2l4 -4" />
-</svg><strong>Personalized Mentorship:</strong> One-on-one guidance tailored to your profile.</li>
+</svg>View tutor profiles</li>
                             <li><!--
 category: Shapes
 tags: [accept, yes, tick, done]
@@ -181,7 +171,7 @@ unicode: "ea67"
 >
   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
   <path d="M9 12l2 2l4 -4" />
-</svg><strong>Comprehensive Support:</strong> From program selection to visa application.</li>
+</svg>Create a student profile</li>
                             <li><!--
 category: Shapes
 tags: [accept, yes, tick, done]
@@ -201,91 +191,11 @@ unicode: "ea67"
 >
   <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
   <path d="M9 12l2 2l4 -4" />
-</svg><strong>Funding Expertise:</strong> Dedicated assistance in finding scholarships.</li>
-                            <li><!--
-category: Shapes
-tags: [accept, yes, tick, done]
-version: "1.0"
-unicode: "ea67"
--->
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
-  <path d="M9 12l2 2l4 -4" />
-</svg><strong>Post-Admission Guidance:</strong> Preparing you for life abroad.</li>
+</svg>Directly contact tutors</li>
                         </ul>
+                        <a href="view-profile.html" class="primary-cta-button">Find a Tutor</a>
+                        <a href="student-profile.html" class="primary-cta-button">Create a Profile</a>
                     </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="certifications">
-            <div class="container">
-                <h2>Certifications & Affiliations</h2>
-                <div class="certs-grid">
-                    <div class="cert-item">
-                        <!--
-category: Document
-tags: [document, official, attest, signature, birth, death, gift, authenticity, seal, course, complete, qualification]
-version: "1.33"
-unicode: "ed76"
--->
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M15 15m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
-  <path d="M13 17.5v4.5l2 -1.5l2 1.5v-4.5" />
-  <path d="M10 19h-5a2 2 0 0 1 -2 -2v-10c0 -1.1 .9 -2 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -1 1.73" />
-  <path d="M6 9l12 0" />
-  <path d="M6 12l3 0" />
-  <path d="M6 15l2 0" />
-</svg>
-                        <p>Accredited Education Consultant</p>
-                    </div>
-                    <div class="cert-item">
-                        <!--
-category: Map
-tags: [earth, globe, global, language, union]
-version: "1.0"
-unicode: "eb54"
--->
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
-  <path d="M3.6 9h16.8" />
-  <path d="M3.6 15h16.8" />
-  <path d="M11.5 3a17 17 0 0 0 0 18" />
-  <path d="M12.5 3a17 17 0 0 1 0 18" />
-</svg>
-                        <p>Partner of Global Universities Network</p>
-                    </div>
-                    <!-- Add more as needed -->
                 </div>
             </div>
         </section>
@@ -384,5 +294,6 @@ unicode: "ec74"
             <p class="copyright">© 2023 InfoHub. All Rights Reserved.</p>
         </div>
     </footer>
+    <script src="js/tutor-search.js"></script>
 </body>
 </html>
