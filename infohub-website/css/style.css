@@ -106,10 +106,21 @@ header .container {
 }
 
 .logo {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.8em;
-    font-weight: 700;
-    color: var(--primary-purple);
+    /* font-family, font-size, font-weight, color are now less relevant as it's an image */
+    /* color: var(--primary-purple); /* Fallback for alt text if image fails */
+    display: flex; 
+    align-items: center;
+}
+
+.logo a {
+    display: inline-block; /* Ensure the link wraps the image correctly */
+}
+
+.logo img {
+    height: 40px; /* Set a fixed height, browser will calculate width to maintain aspect ratio */
+    width: auto;   /* Maintain aspect ratio */
+    display: block; /* Remove extra space below image if it's treated as inline */
+    object-fit: contain; /* Ensures the image scales down to fit within 40px height without cropping */
 }
 
 header nav ul {
@@ -208,11 +219,13 @@ header nav ul li a:hover {
     position: relative;
 }
 
-.content-grid .text-content ul li::before {
-    content: '✅'; /* Checkmark icon */
+.content-grid .text-content ul li svg {
     position: absolute;
     left: 0;
-    color: var(--accent-color);
+    top: 0;
+    width: 20px;
+    height: 20px;
+    stroke: var(--accent-color);
 }
 
 .content-grid .image-content img {
@@ -645,6 +658,8 @@ footer .container {
     box-shadow: 0 4px 10px rgba(0,0,0,0.08);
     overflow: hidden;
     transition: transform 0.3s ease;
+    display: flex; /* Added for flex layout */
+    flex-direction: column; /* Stack items vertically */
 }
 
 .article-card:hover {
@@ -667,6 +682,7 @@ footer .container {
 .article-card p {
     padding: 0 20px;
     font-size: 0.95em;
+    flex-grow: 1; /* Allow paragraph to expand and push button to bottom */
 }
 
 .article-card .read-more {
@@ -967,11 +983,13 @@ footer .container {
     position: relative;
 }
 
-.service-details-item ul li::before {
-    content: '✔️'; /* Checkmark icon */
+.service-details-item ul li svg {
     position: absolute;
     left: 0;
-    color: var(--accent-color); /* Changed from secondary-green */
+    top: 0;
+    width: 20px;
+    height: 20px;
+    stroke: var(--accent-color);
 }
 
 .service-details-item .primary-cta-button {
@@ -1017,4 +1035,31 @@ footer .container {
 .webinar-signup .primary-cta-button {
     font-size: 1.1em;
     padding: 15px 35px;
+}
+
+.service-item svg {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+    stroke: var(--primary-purple);
+}
+
+.social-media svg {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+    stroke: var(--light-text);
+}
+
+.social-media svg:hover {
+    transform: scale(1.1);
+}
+
+.cert-item svg {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    stroke: var(--light-text);
 }
