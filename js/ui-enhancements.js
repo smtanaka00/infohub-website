@@ -63,13 +63,42 @@ document.addEventListener('DOMContentLoaded', function() {
                 submitButton.textContent = 'Sending...';
                 submitButton.disabled = true;
                 
-                // Simulate form submission (replace with actual submission logic)
-                setTimeout(() => {
-                    alert('Thank you! Your inquiry has been submitted. We will get back to you soon.');
-                    form.reset();
+                // Get form data
+                const formData = new FormData(form);
+                const data = Object.fromEntries(formData.entries());
+                
+                // Send to Formspree
+                fetch(form.action, {
+                    method: form.method,
+                    body: JSON.stringify(data),
+                    headers: {
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    }
+                }).then(response => {
+                    if (response.ok) {
+                        alert('Thank you! Your inquiry has been submitted. We will get back to you soon.');
+                        form.reset();
+                        // If it's the multi-step form, reset it to step 0
+                        if (typeof updateUI === 'function') {
+                            currentStep = 0;
+                            updateUI(0);
+                        }
+                    } else {
+                        response.json().then(data => {
+                            if (Object.hasOwn(data, 'errors')) {
+                                alert(data["errors"].map(error => error["message"]).join(", "));
+                            } else {
+                                alert('Oops! There was a problem submitting your form. Please try again.');
+                            }
+                        });
+                    }
+                }).catch(error => {
+                    alert('Oops! There was a problem submitting your form. Please try again.');
+                }).finally(() => {
                     submitButton.textContent = originalText;
                     submitButton.disabled = false;
-                }, 1500);
+                });
             }
         });
     });
