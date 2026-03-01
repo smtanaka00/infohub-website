@@ -1,0 +1,7225 @@
+[
+  {
+    "web_pages": [
+      "http://www.marywood.edu"
+    ],
+    "name": "Marywood University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "marywood.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lindenwood.edu/"
+    ],
+    "name": "Lindenwood University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lindenwood.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://sullivan.edu/"
+    ],
+    "name": "Sullivan University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "sullivan.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.fscj.edu/"
+    ],
+    "name": "Florida State College at Jacksonville",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fscj.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.xavier.edu/"
+    ],
+    "name": "Xavier University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "xavier.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://home.tusculum.edu/"
+    ],
+    "name": "Tusculum College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "tusculum.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://cst.edu/"
+    ],
+    "name": "Claremont School of Theology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cst.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.columbiasc.edu/"
+    ],
+    "name": "Columbia College (SC)",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "columbiasc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.clpccd.edu/"
+    ],
+    "name": "Chabot-Las Positas Community College District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "clpccd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.keller.edu/"
+    ],
+    "name": "Keller Graduate School of Management",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "keller.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://monroecollege.edu/"
+    ],
+    "name": "Monroe College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "monroecollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://smccd.edu/"
+    ],
+    "name": "San Mateo County Community College District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "smccd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://losrios.edu/"
+    ],
+    "name": "Los Rios Community College District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "losrios.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.digipen.edu/"
+    ],
+    "name": "DigiPen Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "digipen.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.upmc.com/"
+    ],
+    "name": "University of Pittsburgh Medical Center",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "upmc.edu",
+      "upmc.com"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.cgu.edu/"
+    ],
+    "name": "Claremont Graduate University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cgu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.utrgv.edu/"
+    ],
+    "name": "The University of Texas at Rio Grande Valley",
+    "alpha_two_code": "US",
+    "state-province": "Texas",
+    "domains": [
+      "utrgv.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://mountsaintvincent.edu/"
+    ],
+    "name": "College of Mount Saint Vincent",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mountsaintvincent.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.uasys.edu/"
+    ],
+    "name": "University of Arkansas System eVersity",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "uasys.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.ecpi.edu/"
+    ],
+    "name": "ECPI University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ecpi.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.umw.edu/"
+    ],
+    "name": "University of Mary Washington",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "umw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.bw.edu/"
+    ],
+    "name": "Baldwin Wallace University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.csuci.edu/"
+    ],
+    "name": "California State University Channel Islands",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csuci.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.brandman.edu/"
+    ],
+    "name": "Brandman University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "brandman.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.uscga.edu/"
+    ],
+    "name": "United States Coast Guard Academy",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "uscga.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.athens.edu/"
+    ],
+    "name": "Athens State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "athens.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://scripps.edu/"
+    ],
+    "name": "The Scripps Research Institute",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "scripps.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.easternflorida.edu/"
+    ],
+    "name": "Eastern Florida State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "easternflorida.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www1.wne.edu/"
+    ],
+    "name": "Western New England University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wne.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://king.edu/"
+    ],
+    "name": "King University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "king.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://ggc.edu/"
+    ],
+    "name": "Georgia Gwinnett College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ggc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.trident.edu/"
+    ],
+    "name": "Trident University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "trident.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.alliant.edu/"
+    ],
+    "name": "Alliant International University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "alliant.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://mvsu.edu/"
+    ],
+    "name": "Mississippi Valley State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mvsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.roosevelt.edu/"
+    ],
+    "name": "Roosevelt University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "roosevelt.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://itt-tech.info/"
+    ],
+    "name": "ITT Technical Institute",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "itt-tech.info",
+      "itt-tech.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://iecc.edu/"
+    ],
+    "name": "Illinois Eastern Community Colleges",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iecc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://park.edu/"
+    ],
+    "name": "Park University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "park.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://icahn.mssm.edu/"
+    ],
+    "name": "Icahn School of Medicine at Mount Sinai",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mssm.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://uvu.edu/"
+    ],
+    "name": "Utah Valley University",
+    "alpha_two_code": "US",
+    "state-province": "Utah",
+    "domains": [
+      "uvu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.wlc.edu/"
+    ],
+    "name": "Wisconsin Lutheran College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wlc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.rccd.edu/"
+    ],
+    "name": "Riverside Community College District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "rccd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.wakehealth.edu/"
+    ],
+    "name": "Wake Forest Baptist Health",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wakehealth.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.umb.edu/"
+    ],
+    "name": "University of Massachusetts Boston",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "umb.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://floridapoly.edu/"
+    ],
+    "name": "Florida Polytechnic University",
+    "alpha_two_code": "US",
+    "state-province": "Florida",
+    "domains": [
+      "floridapoly.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://wagner.edu/"
+    ],
+    "name": "Wagner College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wagner.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.wilmu.edu/"
+    ],
+    "name": "Wilmington University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wilmu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://itu.edu/"
+    ],
+    "name": "International Technological University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "itu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.yhc.edu/"
+    ],
+    "name": "Young Harris College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "yhc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.findlay.edu/"
+    ],
+    "name": "University of Findlay",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "findlay.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.pcom.edu/"
+    ],
+    "name": "Philadelphia College of Osteopathic Medicine",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "pcom.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.yosemite.edu/"
+    ],
+    "name": "Yosemite Community College District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "yosemite.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coastalalabama.edu/"
+    ],
+    "name": "Coastal Alabama Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coastalalabama.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.pnw.edu/"
+    ],
+    "name": "Purdue University Northwest",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "pnw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.columbiabasin.edu/"
+    ],
+    "name": "Columbia Basin College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "columbiabasin.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.seattlecolleges.edu/"
+    ],
+    "name": "Seattle Colleges",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "seattlecolleges.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.lipscomb.edu/"
+    ],
+    "name": "Lipscomb University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lipscomb.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.tiffin.edu/"
+    ],
+    "name": "Tiffin University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "tiffin.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://troy.edu/"
+    ],
+    "name": "Troy University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "troy.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.42.us.org/"
+    ],
+    "name": "42 US",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "student.42.us.org"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.calbaptist.edu/"
+    ],
+    "name": "California Baptist University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calbaptist.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.stevenson.edu/"
+    ],
+    "name": "Stevenson University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "stevenson.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mbl.edu/"
+    ],
+    "name": "Marine Biological Laboratory",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mbl.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.maryville.edu/"
+    ],
+    "name": "Maryville University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "maryville.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.aii.edu/"
+    ],
+    "name": "The Art Institutes",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "aii.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.umc.edu/"
+    ],
+    "name": "University of Mississippi Medical Center",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "umc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.uco.edu/"
+    ],
+    "name": "University of Central Oklahoma",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "uco.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hallmarkuniversity.edu/"
+    ],
+    "name": "Hallmark University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hallmarkuniversity.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.keiseruniversity.edu/"
+    ],
+    "name": "Keiser University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "keiseruniversity.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.sjrstate.edu/"
+    ],
+    "name": "St. Johns River State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "sjrstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.irsc.edu/"
+    ],
+    "name": "Indian River State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "irsc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.barnard.edu/"
+    ],
+    "name": "Barnard College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "barnard.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.calsouthern.edu/"
+    ],
+    "name": "California Southern University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calsouthern.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.laverne.edu/"
+    ],
+    "name": "University of La Verne",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "laverne.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.washjeff.edu/"
+    ],
+    "name": "Washington & Jefferson College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "washjeff.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.uopeople.edu/"
+    ],
+    "name": "University of the People",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "uopeople.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.touro.edu/"
+    ],
+    "name": "Touro College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "touro.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.njcu.edu/"
+    ],
+    "name": "New Jersey City University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "njcu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lander.edu/"
+    ],
+    "name": "Lander University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lander.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.sunymaritime.edu/"
+    ],
+    "name": "SUNY Maritime College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "sunymaritime.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lesley.edu/"
+    ],
+    "name": "Lesley University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lesley.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lauruscollege.edu/"
+    ],
+    "name": "Laurus College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lauruscollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.np.edu/"
+    ],
+    "name": "National Park College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "np.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.oc.edu/"
+    ],
+    "name": "Oklahoma Christian University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "oc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.sdcc.edu/"
+    ],
+    "name": "San Diego Christian College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "sdcc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.sans.edu/"
+    ],
+    "name": "SANS Technology Institute",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "sans.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.phsc.edu/"
+    ],
+    "name": "Pasco-Hernando State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "phsc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ncf.edu/"
+    ],
+    "name": "New College of Florida",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ncf.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gcu.edu/"
+    ],
+    "name": "Grand Canyon University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gcu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cshl.edu/"
+    ],
+    "name": "Cold Spring Harbor Laboratory",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cshl.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.asurams.edu/"
+    ],
+    "name": "Albany State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "asurams.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lasell.edu/"
+    ],
+    "name": "Lasell College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lasell.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.4cd.edu/"
+    ],
+    "name": "Contra Costa Community College District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "4cd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.msmary.edu/"
+    ],
+    "name": "Mount St. Mary's University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "msmary.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.robertmorris.edu/"
+    ],
+    "name": "Robert Morris University Illinois",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "robertmorris.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.nwfsc.edu/"
+    ],
+    "name": "Northwest Florida State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "nwfsc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.wvwc.edu/"
+    ],
+    "name": "West Virginia Wesleyan College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wvwc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.utica.edu/"
+    ],
+    "name": "Utica College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "utica.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ccnn.edu/"
+    ],
+    "name": "Career College of Northern Nevada",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ccnn.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.csn.edu/"
+    ],
+    "name": "College of Southern Nevada",
+    "alpha_two_code": "US",
+    "state-province": "NV",
+    "domains": [
+      "csn.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ung.edu/"
+    ],
+    "name": "University of North Georgia",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ung.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.principia.edu/"
+    ],
+    "name": "The Principia",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "principia.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lynn.edu/"
+    ],
+    "name": "Lynn University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lynn.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cccs.edu/"
+    ],
+    "name": "Colorado Community College System",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cccs.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.valenciacollege.edu/"
+    ],
+    "name": "Valencia College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "valenciacollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.spcollege.edu/"
+    ],
+    "name": "St. Petersburg College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "spcollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.msbcollege.edu/"
+    ],
+    "name": "Globe University & Minnesota School of Business",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "msbcollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.everest.edu/"
+    ],
+    "name": "Everest College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "everest.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.swri.edu/"
+    ],
+    "name": "Southwest Research Institute",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "swri.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.apus.edu/"
+    ],
+    "name": "American Public University System",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "apus.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fullsail.edu/"
+    ],
+    "name": "Full Sail University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fullsail.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.yti.edu/"
+    ],
+    "name": "YTI Career Institute",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "yti.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dliflc.edu/"
+    ],
+    "name": "Defense Language Institute Foreign Language Center",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dliflc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.columbusstate.edu/"
+    ],
+    "name": "Columbus State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "columbusstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.moreheadstate.edu/"
+    ],
+    "name": "Morehead State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "moreheadstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csuglobal.edu/"
+    ],
+    "name": "Colorado State University - Global Campus",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csuglobal.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ndus.edu/"
+    ],
+    "name": "North Dakota University System",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ndus.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.uhd.edu/"
+    ],
+    "name": "University of Houston-Downtown",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "uhd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.stratford.edu/"
+    ],
+    "name": "Stratford University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "stratford.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cpp.edu/"
+    ],
+    "name": "California Polytechnic State University, Pomona",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cpp.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.baker.edu/"
+    ],
+    "name": "Baker College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "baker.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.tcnj.edu/"
+    ],
+    "name": "The College of New Jersey",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "tcnj.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.acu.edu/"
+    ],
+    "name": "Abilene Christian University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "acu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.adelphi.edu/"
+    ],
+    "name": "Adelphi University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "adelphi.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.agnesscott.edu/"
+    ],
+    "name": "Agnes Scott College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "agnesscott.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.atc.edu/"
+    ],
+    "name": "Aiken Technical College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "atc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.afit.edu/"
+    ],
+    "name": "Air Force Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "afit.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.aamu.edu/"
+    ],
+    "name": "Alabama A&M University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "aamu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.alasu.edu/"
+    ],
+    "name": "Alabama State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "alasu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.alamo.edu/"
+    ],
+    "name": "Alamo Colleges",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "aloma.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.acofi.edu/"
+    ],
+    "name": "Albertson College of Idaho",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "acofi.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.albion.edu/"
+    ],
+    "name": "Albion College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "albion.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.alfred.edu/"
+    ],
+    "name": "Alfred University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "alfred.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.alleg.edu/"
+    ],
+    "name": "Allegheny College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "alleg.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.allencol.edu/"
+    ],
+    "name": "Allentown College of Saint Francis de Sales",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "allencol.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.alma.edu/"
+    ],
+    "name": "Alma College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "alma.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.alverno.edu/"
+    ],
+    "name": "Alverno College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "alverno.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ambassador.edu/"
+    ],
+    "name": "Ambassador University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ambassador.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.amercoastuniv.edu/"
+    ],
+    "name": "American Coastline University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "amercoastuniv.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.aic.edu/"
+    ],
+    "name": "American International College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "aic.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.american.edu/"
+    ],
+    "name": "American University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "american.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.amherst.edu/"
+    ],
+    "name": "Amherst College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "amherst.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.andrews.edu/"
+    ],
+    "name": "Andrews University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "andrews.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.angelo.edu/"
+    ],
+    "name": "Angelo State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "angelo.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.aacc.edu/"
+    ],
+    "name": "Anne Arundel Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "aacc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.antiochne.edu/"
+    ],
+    "name": "Antioch New England",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "antiochne.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.antioch.edu/"
+    ],
+    "name": "Antioch University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "antioch.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.antiochla.edu/"
+    ],
+    "name": "Antioch University - Los Angeles",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "antiochla.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.seattleantioch.edu/"
+    ],
+    "name": "Antioch University - Seattle",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "seattleantioch.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.appstate.edu/"
+    ],
+    "name": "Appalachian State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "appstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.aquinas.edu/"
+    ],
+    "name": "Aquinas College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "aquinas.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.arcadia.edu/"
+    ],
+    "name": "Arcadia College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "arcadia.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.asu.edu/"
+    ],
+    "name": "Arizona State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "asu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.azwestern.edu/"
+    ],
+    "name": "Arizona Western College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "azwestern.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.astate.edu/"
+    ],
+    "name": "Arkansas State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "astate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.atu.edu/"
+    ],
+    "name": "Arkansas Tech University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "atu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.armstrong.edu/"
+    ],
+    "name": "Armstrong State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "armstrong.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ashland.edu/"
+    ],
+    "name": "Ashland University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ashland.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.assumption.edu/"
+    ],
+    "name": "Assumption College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "assumption.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.auburn.edu/"
+    ],
+    "name": "Auburn University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "auburn.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.aum.edu/"
+    ],
+    "name": "Auburn University at Montgomery",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "aum.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.augsburg.edu/"
+    ],
+    "name": "Augsburg College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "augsburg.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.augustana.edu/"
+    ],
+    "name": "Augustana College (IL)",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "augustana.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.augie.edu/"
+    ],
+    "name": "Augustana College (SD)",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "augie.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.augusta.edu/",
+      "http://www.gru.edu/"
+    ],
+    "name": "Augusta University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "augusta.edu",
+      "gru.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.aurora.edu/"
+    ],
+    "name": "Aurora University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "aurora.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.austincollege.edu/"
+    ],
+    "name": "Austin College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "austincollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.austincc.edu/"
+    ],
+    "name": "Austin Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "austincc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.apsu.edu/"
+    ],
+    "name": "Austin Peay State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "apsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.averett.edu/"
+    ],
+    "name": "Averett College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "averett.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.avila.edu/"
+    ],
+    "name": "Avila College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "avila.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.apu.edu/"
+    ],
+    "name": "Azusa Pacific University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "apu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.babson.edu/"
+    ],
+    "name": "Babson College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "babson.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bakeru.edu/"
+    ],
+    "name": "Baker University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bakeru.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bsu.edu/"
+    ],
+    "name": "Ball State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bbc.edu/"
+    ],
+    "name": "Baptist Bible College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bbc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bard.edu/"
+    ],
+    "name": "Bard College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bard.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.barry.edu/"
+    ],
+    "name": "Barry University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "barry.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bastyr.edu/"
+    ],
+    "name": "Bastyr University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bastyr.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bates.edu/"
+    ],
+    "name": "Bates College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bates.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bcm.edu/"
+    ],
+    "name": "Baylor College of Medicine",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bcm.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.baylor.edu/"
+    ],
+    "name": "Baylor University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "baylor.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bellevue.edu/"
+    ],
+    "name": "Bellevue University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bellevue.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.belmont.edu/"
+    ],
+    "name": "Belmont University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "belmont.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.beloit.edu/"
+    ],
+    "name": "Beloit College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "beloit.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bemidjistate.edu/"
+    ],
+    "name": "Bemidji State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bemidjistate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.benedictine.edu/"
+    ],
+    "name": "Benedictine College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "benedictine.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bennington.edu/"
+    ],
+    "name": "Bennington College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bennington.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bentley.edu/"
+    ],
+    "name": "Bentley University",
+    "alpha_two_code": "US",
+    "state-province": "Massachusetts",
+    "domains": [
+      "bentley.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.berea.edu/"
+    ],
+    "name": "Berea College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "berea.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.berklee.edu/"
+    ],
+    "name": "Berklee College of Music",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "berklee.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bethanywv.edu/"
+    ],
+    "name": "Bethany College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bethanywv.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bethelks.edu/"
+    ],
+    "name": "Bethel College (KS)",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bethelks.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bethel.edu/"
+    ],
+    "name": "Bethel University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bethel.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.biola.edu/"
+    ],
+    "name": "Biola University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "biola.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bsc.edu/"
+    ],
+    "name": "Birmingham-Southern College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bsc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bhsu.edu/"
+    ],
+    "name": "Black Hills State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bhsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bloomu.edu/"
+    ],
+    "name": "Bloomsburg University of Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "bloomu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bluffton.edu/"
+    ],
+    "name": "Bluffton College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bluffton.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bju.edu/"
+    ],
+    "name": "Bob Jones University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bju.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.boisestate.edu/"
+    ],
+    "name": "Boise State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "boisestate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bc.edu/"
+    ],
+    "name": "Boston College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bgsp.edu/"
+    ],
+    "name": "Boston Graduate School of Psychoanalysis",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bgsp.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bu.edu/"
+    ],
+    "name": "Boston University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bowdoin.edu/"
+    ],
+    "name": "Bowdoin College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bowdoin.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bowiestate.edu/"
+    ],
+    "name": "Bowie State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bowiestate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bgsu.edu/"
+    ],
+    "name": "Bowling Green State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bgsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bradley.edu/"
+    ],
+    "name": "Bradley University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bradley.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.brandeis.edu/"
+    ],
+    "name": "Brandeis University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "brandeis.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.brenau.edu/"
+    ],
+    "name": "Brenau University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "brenau.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.briar-cliff.edu/"
+    ],
+    "name": "Briar Cliff College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "briar-cliff.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bridgewater.edu/"
+    ],
+    "name": "Bridgewater College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bridgewater.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.byu.edu/"
+    ],
+    "name": "Brigham Young University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "byu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.byui.edu/"
+    ],
+    "name": "Brigham Young University - Idaho",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "byui.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.byuh.edu/"
+    ],
+    "name": "Brigham Young University Hawaii",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "byuh.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.broward.edu/"
+    ],
+    "name": "Broward College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "broward.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.brown.edu/"
+    ],
+    "name": "Brown University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "brown.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bryant.edu/"
+    ],
+    "name": "Bryant University",
+    "alpha_two_code": "US",
+    "state-province": "Rhode Island",
+    "domains": [
+      "bryant.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.brynmawr.edu/college"
+    ],
+    "name": "Bryn Mawr College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "brynmawr.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bucknell.edu/"
+    ],
+    "name": "Bucknell University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bucknell.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.bvu.edu/"
+    ],
+    "name": "Buena Vista University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bvu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.butler.edu/"
+    ],
+    "name": "Butler University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "butler.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.calcoast.edu/"
+    ],
+    "name": "California Coast University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calcoast.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.caltech.edu/"
+    ],
+    "name": "California Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "caltech.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.callutheran.edu/"
+    ],
+    "name": "California Lutheran University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "callutheran.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csum.edu/"
+    ],
+    "name": "California Maritime Academy",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csum.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cnuas.edu/"
+    ],
+    "name": "California National University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cnuas.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.calpoly.edu/"
+    ],
+    "name": "California Polytechnic State University, San Luis Obispo",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calpoly.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csub.edu/"
+    ],
+    "name": "California State University, Bakersfield",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csub.edu",
+      "csubak.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csuchico.edu/"
+    ],
+    "name": "California State University, Chico",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csuchico.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csudh.edu/"
+    ],
+    "name": "California State University, Dominguez Hills",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csudh.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csufresno.edu/",
+      "http://www.fresnostate.edu/"
+    ],
+    "name": "California State University, Fresno",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csufresno.edu",
+      "fresnostate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fullerton.edu/"
+    ],
+    "name": "California State University, Fullerton",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fullerton.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csuhayward.edu/"
+    ],
+    "name": "California State University, Hayward",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csuhayward.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csulb.edu/"
+    ],
+    "name": "California State University, Long Beach",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csulb.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.calstatela.edu/"
+    ],
+    "name": "California State University, Los Angeles",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calstatela.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csumb.edu/"
+    ],
+    "name": "California State University, Monterey Bay",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csumb.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csun.edu/"
+    ],
+    "name": "California State University, Northridge",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csun.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csus.edu/"
+    ],
+    "name": "California State University, Sacramento",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csus.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csusb.edu/"
+    ],
+    "name": "California State University, San Bernardino",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csusb.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csusm.edu/"
+    ],
+    "name": "California State University, San Marcos",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csusm.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csustan.edu/"
+    ],
+    "name": "California State University, Stanislaus",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csustan.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.calstate.edu/"
+    ],
+    "name": "California State University System",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cup.edu/"
+    ],
+    "name": "California University of Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "cup.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.calvin.edu/"
+    ],
+    "name": "Calvin College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calvin.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cameron.edu/"
+    ],
+    "name": "Cameron University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cameron.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.campbellsville.edu/"
+    ],
+    "name": "Campbellsville College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "campbellsville.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.campbell.edu/"
+    ],
+    "name": "Campbell University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "campbell.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.canisius.edu/"
+    ],
+    "name": "Canisius College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "canisius.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.capella.edu/",
+      "http://www.capellauniversity.edu/"
+    ],
+    "name": "Capella University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "capella.edu",
+      "capellauniversity.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.captechu.edu/"
+    ],
+    "name": "Capitol Technology University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "captechu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.carleton.edu/"
+    ],
+    "name": "Carleton College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "carleton.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.carlow.edu/"
+    ],
+    "name": "Carlow College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "carlow.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cmu.edu/"
+    ],
+    "name": "Carnegie Mellon University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cmu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.carroll.edu/"
+    ],
+    "name": "Carroll College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "carroll.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.carrollu.edu/"
+    ],
+    "name": "Carroll University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "carrollu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cn.edu/"
+    ],
+    "name": "Carson-Newman College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cn.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.carthage.edu/"
+    ],
+    "name": "Carthage College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "carthage.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.case.edu/"
+    ],
+    "name": "Case Western Reserve University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "case.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.castleton.edu/"
+    ],
+    "name": "Castleton State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "castleton.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cua.edu/"
+    ],
+    "name": "Catholic University of America",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cua.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cedarville.edu/"
+    ],
+    "name": "Cedarville College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cedarville.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.centenary.edu/"
+    ],
+    "name": "Centenary College of Louisiana",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "centenary.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.central.edu/"
+    ],
+    "name": "Central College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "central.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ccsu.edu/"
+    ],
+    "name": "Central Connecticut State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ccsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cmc.edu/"
+    ],
+    "name": "Central Methodist College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cmc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cmich.edu/"
+    ],
+    "name": "Central Michigan University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cmich.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cwu.edu/"
+    ],
+    "name": "Central Washington University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cwu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.centre.edu/"
+    ],
+    "name": "Centre College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "centre.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csc.edu/"
+    ],
+    "name": "Chadron State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.champlain.edu/"
+    ],
+    "name": "Champlain College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "champlain.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.chapman.edu/"
+    ],
+    "name": "Chapman University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "chapman.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.chatham.edu/"
+    ],
+    "name": "Chatham College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "chatham.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.chesapeake.edu/"
+    ],
+    "name": "Chesapeake College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "chesapeake.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cheyney.edu/"
+    ],
+    "name": "Cheyney University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cheyney.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csopp.edu/"
+    ],
+    "name": "Chicago School of Professional Psychology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csopp.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cbu.edu/"
+    ],
+    "name": "Christian Brothers University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cbu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cts.edu/"
+    ],
+    "name": "Christian Theological Seminary",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cts.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cnu.edu/"
+    ],
+    "name": "Christopher Newport University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cnu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cityu.edu/"
+    ],
+    "name": "City University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cityu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cuny.edu/"
+    ],
+    "name": "City University of New York",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cgs.edu/"
+    ],
+    "name": "Claremont Graduate School",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cgs.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cmc.edu/"
+    ],
+    "name": "Claremont McKenna College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "claremontmckenna.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.clarion.edu/"
+    ],
+    "name": "Clarion University of Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "clarion.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.clarke.edu/"
+    ],
+    "name": "Clarke College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "clarke.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.clarkson.edu/"
+    ],
+    "name": "Clarkson University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "clarkson.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.clarku.edu/"
+    ],
+    "name": "Clark University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "clarku.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.clayton.edu/"
+    ],
+    "name": "Clayton State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "clayton.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.clemson.edu/"
+    ],
+    "name": "Clemson University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "clemson.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csuohio.edu/"
+    ],
+    "name": "Cleveland State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csuohio.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.clinch.edu/"
+    ],
+    "name": "Clinch Valley College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "clinch.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coastal.edu/"
+    ],
+    "name": "Coastal Carolina University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coastal.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cccd.edu/"
+    ],
+    "name": "Coast Colleges",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cccd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coe.edu/"
+    ],
+    "name": "Coe College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coe.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coker.edu/"
+    ],
+    "name": "Coker College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coker.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.colby.edu/"
+    ],
+    "name": "Colby College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "colby.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.colgate.edu/"
+    ],
+    "name": "Colgate University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "colgate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cofc.edu/"
+    ],
+    "name": "College of Charleston",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cofc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ceu.edu/"
+    ],
+    "name": "College of Eastern Utah",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ceu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cnr.edu/"
+    ],
+    "name": "College of New Rochelle",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cnr.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csbsju.edu/"
+    ],
+    "name": "College of Saint Benedict",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csbsju.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.stkate.edu/"
+    ],
+    "name": "College of Saint Catherine",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "stkate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.strose.edu/"
+    ],
+    "name": "College of Saint Rose",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "strose.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.stfrancis.edu/"
+    ],
+    "name": "College of St. Francis",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "stfrancis.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.css.edu/"
+    ],
+    "name": "College of St. Scholastica",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "css.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coa.edu/"
+    ],
+    "name": "College of the Atlantic",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coa.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.holycross.edu/"
+    ],
+    "name": "College of the Holy Cross",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "holycross.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.wm.edu/"
+    ],
+    "name": "College of William and Mary",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wm.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.wooster.edu/"
+    ],
+    "name": "College of Wooster",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wooster.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ccu.edu/"
+    ],
+    "name": "Colorado Christian University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ccu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coloradocollege.edu/"
+    ],
+    "name": "Colorado College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coloradocollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coloradomesa.edu/"
+    ],
+    "name": "Colorado Mesa University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coloradomesa.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mines.edu/"
+    ],
+    "name": "Colorado School of Mines",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mines.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.colostate.edu/"
+    ],
+    "name": "Colorado State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "colostate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coloradotech.edu/",
+      "http://www.ctuonline.edu/"
+    ],
+    "name": "Colorado Technical University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coloradotech.edu",
+      "ctuonline.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.cuanschutz.edu/"
+    ],
+    "name": "University of Colorado Anschutz Medical Campus",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cuanschutz.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.colum.edu/"
+    ],
+    "name": "Columbia College Chicago",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "colum.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.colsouth.edu/"
+    ],
+    "name": "Columbia Southern University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "colsouth.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cuc.edu/"
+    ],
+    "name": "Columbia Union College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cuc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.columbia.edu/"
+    ],
+    "name": "Columbia University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "columbia.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ccbcmd.edu/"
+    ],
+    "name": "Community College of Baltimore County",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ccbcmd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ccaa.edu/"
+    ],
+    "name": "Concordia College - Ann Arbor",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ccaa.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cord.edu/"
+    ],
+    "name": "Concordia College - Moorhead",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cord.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ccsn.edu/"
+    ],
+    "name": "Concordia College - Seward",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ccsn.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.csp.edu/"
+    ],
+    "name": "Concordia College - St. Paul",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csp.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.conncoll.edu/"
+    ],
+    "name": "Connecticut College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "conncoll.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ct.edu/"
+    ],
+    "name": "Connecticut State University System",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ct.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cooper.edu/"
+    ],
+    "name": "Cooper Union for the Advancement of Science and Art",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cooper.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.coppin.edu/"
+    ],
+    "name": "Coppin State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "coppin.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.allencollege.edu/"
+    ],
+    "name": "Allen College",
+    "alpha_two_code": "US",
+    "state-province": "Iowa",
+    "domains": [
+      "allencollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cornell-iowa.edu/"
+    ],
+    "name": "Cornell College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cornell-iowa.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.cornell.edu/"
+    ],
+    "name": "Cornell University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cornell.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.corning-cc.edu/"
+    ],
+    "name": "Corning Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "corning-cc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.creighton.edu/"
+    ],
+    "name": "Creighton University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "creighton.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.curry.edu/"
+    ],
+    "name": "Curry College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "curry.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.daemen.edu/"
+    ],
+    "name": "Daemen College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "daemen.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dsu.edu/"
+    ],
+    "name": "Dakota State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dwu.edu/"
+    ],
+    "name": "Dakota Wesleyan University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dwu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dbu.edu/"
+    ],
+    "name": "Dallas Baptist University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dbu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dcccd.edu/"
+    ],
+    "name": "Dallas County Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dcccd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dana.edu/"
+    ],
+    "name": "Dana College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dana.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dwc.edu/"
+    ],
+    "name": "Daniel Webster College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dwc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dartmouth.edu/"
+    ],
+    "name": "Dartmouth College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dartmouth.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.davenport.edu/"
+    ],
+    "name": "Davenport University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "davenport.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.davidson.edu/"
+    ],
+    "name": "Davidson College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "davidson.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dne.wvnet.edu/"
+    ],
+    "name": "Davis & Elkins College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dne.wvnet.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.daytonastate.edu/"
+    ],
+    "name": "Daytona State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "daytonastate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.desu.edu/"
+    ],
+    "name": "Delaware State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "desu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.deltastate.edu/"
+    ],
+    "name": "Delta State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "deltastate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.denison.edu/"
+    ],
+    "name": "Denison University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "denison.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.depaul.edu/"
+    ],
+    "name": "DePaul University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "depaul.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.depauw.edu/"
+    ],
+    "name": "DePauw University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "depauw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.devry.edu/"
+    ],
+    "name": "DeVry Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "devry.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dickinson.edu/"
+    ],
+    "name": "Dickinson College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dickinson.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dickinsonstate.edu/"
+    ],
+    "name": "Dickinson State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dickinsonstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dillard.edu/"
+    ],
+    "name": "Dillard University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dillard.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dominican.edu/"
+    ],
+    "name": "Dominican College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dominican.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dordt.edu/"
+    ],
+    "name": "Dordt College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dordt.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dowling.edu/"
+    ],
+    "name": "Dowling College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dowling.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.drake.edu/"
+    ],
+    "name": "Drake University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "drake.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.drew.edu/"
+    ],
+    "name": "Drew University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "drew.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.drexel.edu/"
+    ],
+    "name": "Drexel University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "drexel.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.drury.edu/"
+    ],
+    "name": "Drury College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "drury.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.duq.edu/"
+    ],
+    "name": "Duquesne University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "duq.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.earlham.edu/"
+    ],
+    "name": "Earlham College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "earlham.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ecu.edu/"
+    ],
+    "name": "East Carolina University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ecu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ecok.edu/"
+    ],
+    "name": "East Central University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ecok.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.easternct.edu/"
+    ],
+    "name": "Eastern Connecticut State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "easternct.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.eiu.edu/"
+    ],
+    "name": "Eastern Illinois University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "eiu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.eku.edu/"
+    ],
+    "name": "Eastern Kentucky University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "eku.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.emu.edu/"
+    ],
+    "name": "Eastern Mennonite University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "emu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.emich.edu/"
+    ],
+    "name": "Eastern Michigan University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "emich.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.enmu.edu/"
+    ],
+    "name": "Eastern New Mexico University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "enmu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.eou.edu/"
+    ],
+    "name": "Eastern Oregon State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "eou.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ewu.edu/"
+    ],
+    "name": "Eastern Washington University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ewu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.esu.edu/"
+    ],
+    "name": "East Stroudsburg State University of Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "esu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.etsu.edu/"
+    ],
+    "name": "East Tennessee State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "etsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.edgewood.edu/"
+    ],
+    "name": "Edgewood College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "edgewood.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.edinboro.edu/"
+    ],
+    "name": "Edinboro University of Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "edinboro.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ecsu.edu/"
+    ],
+    "name": "Elizabeth City State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ecsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.etown.edu/"
+    ],
+    "name": "Elizabethtown College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "etown.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.elmhurst.edu/"
+    ],
+    "name": "Elmhurst College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "elmhurst.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.elon.edu/"
+    ],
+    "name": "Elon College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "elon.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.erau.edu/"
+    ],
+    "name": "Embry-Riddle Aeronautical University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "erau.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.emerson.edu/"
+    ],
+    "name": "Emerson College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "emerson.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.emmanuel.edu/"
+    ],
+    "name": "Emmanuel College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "emmanuel.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.emory.edu/"
+    ],
+    "name": "Emory University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "emory.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.ehc.edu/"
+    ],
+    "name": "Emory & Henry College",
+    "alpha_two_code": "US",
+    "state-province": "VA",
+    "domains": [
+      "ehc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.emporia.edu/"
+    ],
+    "name": "Emporia State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "emporia.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ecc.edu/"
+    ],
+    "name": "Erie Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ecc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://lecom.edu/"
+    ],
+    "name": "Lake Erie College of Osteopathic Medicine",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lecom.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.etbu.edu/"
+    ],
+    "name": "East Texas Baptist University",
+    "alpha_two_code": "US",
+    "state-province": "TX",
+    "domains": [
+      "etbu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.evergreen.edu/"
+    ],
+    "name": "Evergreen State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "evergreen.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fdu.edu/"
+    ],
+    "name": "Fairleigh Dickinson University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fdu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fairmontstate.edu/"
+    ],
+    "name": "Fairmont State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fairmontstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.uncfsu.edu/"
+    ],
+    "name": "Fayetteville State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "uncfsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ferris.edu/"
+    ],
+    "name": "Ferris State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ferris.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fielding.edu/"
+    ],
+    "name": "Fielding Institute",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fielding.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fisk.edu/"
+    ],
+    "name": "Fisk University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fisk.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fsc.edu/"
+    ],
+    "name": "Fitchburg State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fsc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.famu.edu/"
+    ],
+    "name": "Florida Agricultural and Mechanical University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "famu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fau.edu/"
+    ],
+    "name": "Florida Atlantic University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fau.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fgcu.edu/"
+    ],
+    "name": "Florida Gulf Coast University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fgcu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fit.edu/"
+    ],
+    "name": "Florida Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fit.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fiu.edu/"
+    ],
+    "name": "Florida International University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fiu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fsu.edu/"
+    ],
+    "name": "Florida State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fontbonne.edu/"
+    ],
+    "name": "Fontbonne College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fontbonne.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fordham.edu/"
+    ],
+    "name": "Fordham University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fordham.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fhsu.edu/"
+    ],
+    "name": "Fort Hays State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fhsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fortlewis.edu/"
+    ],
+    "name": "Fort Lewis College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fortlewis.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://fountainheadcollege.edu/"
+    ],
+    "name": "Fountainhead College of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fountainheadcollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fandm.edu/"
+    ],
+    "name": "Franklin and Marshall College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fandm.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fplc.edu/"
+    ],
+    "name": "Franklin Pierce Law Center",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fplc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.franklin.edu/"
+    ],
+    "name": "Franklin University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "franklin.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.frederick.edu/"
+    ],
+    "name": "Frederick Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "frederick.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fresno.edu/"
+    ],
+    "name": "Fresno Pacific University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fresno.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.friends.edu/"
+    ],
+    "name": "Friends University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "friends.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.frostburg.edu/"
+    ],
+    "name": "Frostburg State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "frostburg.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.fuller.edu/"
+    ],
+    "name": "Fuller Theological Seminary",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fuller.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.furman.edu/"
+    ],
+    "name": "Furman University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "furman.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gallaudet.edu/"
+    ],
+    "name": "Gallaudet University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gallaudet.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gannon.edu/"
+    ],
+    "name": "Gannon University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gannon.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.geneva.edu/"
+    ],
+    "name": "Geneva College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "geneva.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gfc.edu/"
+    ],
+    "name": "George Fox College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gfc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gmu.edu/"
+    ],
+    "name": "George Mason University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gmu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.georgetown.edu/"
+    ],
+    "name": "Georgetown University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "georgetown.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gwu.edu/"
+    ],
+    "name": "George Washington University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gwu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gcsu.edu/"
+    ],
+    "name": "Georgia College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gcsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gatech.edu/"
+    ],
+    "name": "Georgia Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gatech.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.georgian.edu/"
+    ],
+    "name": "Georgian Court University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "georgian.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.georgiasouthern.edu/"
+    ],
+    "name": "Georgia Southern University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "georgiasouthern.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://gsw.edu/"
+    ],
+    "name": "Georgia Southwestern State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gsw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gsu.edu/"
+    ],
+    "name": "Georgia State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gettysburg.edu/"
+    ],
+    "name": "Gettysburg College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gettysburg.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gmi.edu/"
+    ],
+    "name": "GMI Engineering and Management Institute",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gmi.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ggu.edu/"
+    ],
+    "name": "Golden Gate University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ggu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gbc.edu/"
+    ],
+    "name": "Goldey-Beacom College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gbc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gonzaga.edu/"
+    ],
+    "name": "Gonzaga University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gonzaga.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.goshen.edu/"
+    ],
+    "name": "Goshen College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "goshen.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.goucher.edu/"
+    ],
+    "name": "Goucher College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "goucher.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.govst.edu/"
+    ],
+    "name": "Governors State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "govst.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.grace.edu/"
+    ],
+    "name": "Grace College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "grace.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.graceland.edu/"
+    ],
+    "name": "Graceland College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "graceland.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.gvsu.edu/"
+    ],
+    "name": "Grand Valley State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gvsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.greenleaf.edu/"
+    ],
+    "name": "Greenleaf University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "greenleaf.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.grinnell.edu/"
+    ],
+    "name": "Grinnell College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "grinnell.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.guilford.edu/"
+    ],
+    "name": "Guilford College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "guilford.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.gac.edu/",
+      "https://gustavus.edu/"
+    ],
+    "name": "Gustavus Adolphus College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gac.edu",
+      "gustavus.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hagerstowncc.edu/"
+    ],
+    "name": "Hagerstown Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hagerstowncc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hamilton.edu/"
+    ],
+    "name": "Hamilton College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hamilton.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hamline.edu/"
+    ],
+    "name": "Hamline University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hamline.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hsc.edu/"
+    ],
+    "name": "Hampden-Sydney College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hsc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hampshire.edu/"
+    ],
+    "name": "Hampshire College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hampshire.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hamptonu.edu/"
+    ],
+    "name": "Hampton University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hamptonu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hanover.edu/"
+    ],
+    "name": "Hanover College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hanover.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.harding.edu/"
+    ],
+    "name": "Harding University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "harding.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.harford.edu/"
+    ],
+    "name": "Harford Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "harford.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hartwick.edu/"
+    ],
+    "name": "Hartwick College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hartwick.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.harvard.edu/"
+    ],
+    "name": "Harvard University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "harvard.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hmc.edu/"
+    ],
+    "name": "Harvey Mudd College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hmc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.haskell.edu/"
+    ],
+    "name": "Haskell Indian Nations University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "haskell.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hastings.edu/"
+    ],
+    "name": "Hastings College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hastings.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.haverford.edu/"
+    ],
+    "name": "Haverford College in Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "haverford.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hpu.edu/"
+    ],
+    "name": "Hawaii Pacific University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hpu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.heidelberg.edu/"
+    ],
+    "name": "Heidelberg College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "heidelberg.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hendrix.edu/"
+    ],
+    "name": "Hendrix College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hendrix.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hesston.edu/"
+    ],
+    "name": "Hesston College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hesston.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.highpoint.edu/"
+    ],
+    "name": "High Point University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "highpoint.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hillsdale.edu/"
+    ],
+    "name": "Hillsdale College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hillsdale.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hiram.edu/"
+    ],
+    "name": "Hiram College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hiram.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hws.edu/"
+    ],
+    "name": "Hobart and William Smith Colleges",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hws.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hofstra.edu/"
+    ],
+    "name": "Hofstra University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hofstra.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hollins.edu/"
+    ],
+    "name": "Hollins College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hollins.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hood.edu/"
+    ],
+    "name": "Hood College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hood.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.hope.edu/"
+    ],
+    "name": "Hope College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "hope.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.howardcc.edu/"
+    ],
+    "name": "Howard Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "howardcc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.howard.edu/"
+    ],
+    "name": "Howard University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "howard.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.humboldt.edu/"
+    ],
+    "name": "Humboldt State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "humboldt.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.huntingdon.edu/"
+    ],
+    "name": "Huntingdon College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "huntingdon.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.huntington.edu/"
+    ],
+    "name": "Huntington University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "huntington.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ici.edu/"
+    ],
+    "name": "ICI University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ici.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.isu.edu/"
+    ],
+    "name": "Idaho State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "isu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ibc.edu/"
+    ],
+    "name": "Illinois Benedictine College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ibc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iit.edu/"
+    ],
+    "name": "Illinois Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iit.edu",
+      "hawk.iit.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.illinoisstate.edu/"
+    ],
+    "name": "Illinois State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "illinoisstate.edu",
+      "ilstu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.indianatech.edu/"
+    ],
+    "name": "Indiana Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "indianatech.edu",
+      "indianatech.net"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.indstate.edu/"
+    ],
+    "name": "Indiana State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "indstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iu.edu/"
+    ],
+    "name": "Indiana University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://bloomington.iu.edu/"
+    ],
+    "name": "Indiana University - Bloomington",
+    "alpha_two_code": "US",
+    "state-province": "Indiana",
+    "domains": [
+      "indiana.edu",
+      "iub.edu",
+      "bloomington.iu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iusb.edu/"
+    ],
+    "name": "Indiana University at South Bend",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iusb.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iup.edu/"
+    ],
+    "name": "Indiana University of Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "iup.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iupuc.edu/"
+    ],
+    "name": "Indiana University/Purdue University at Columbus",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iupuc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ipfw.edu/"
+    ],
+    "name": "Indiana University/Purdue University at Fort Wayne",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ipfw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iupui.edu/"
+    ],
+    "name": "Indiana University/Purdue University at Indianapolis",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iupui.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ius.edu/"
+    ],
+    "name": "Indiana University Southeast",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ius.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.indwes.edu/"
+    ],
+    "name": "Indiana Wesleyan University, Marion",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "indwes.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ias.edu/"
+    ],
+    "name": "Institute for Advanced Study",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ias.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iwp.edu/"
+    ],
+    "name": "Institute for World Politics",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iwp.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iona.edu/"
+    ],
+    "name": "Iona College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iona.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.iastate.edu/"
+    ],
+    "name": "Iowa State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iastate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ivc.edu/"
+    ],
+    "name": "Irvine Valley College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ivc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ithaca.edu/"
+    ],
+    "name": "Ithaca College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ithaca.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jsums.edu/"
+    ],
+    "name": "Jackson State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jsums.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jsu.edu/"
+    ],
+    "name": "Jacksonville State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ju.edu/"
+    ],
+    "name": "Jacksonville University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ju.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jmu.edu/"
+    ],
+    "name": "James Madison University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jmu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jbu.edu/"
+    ],
+    "name": "John Brown University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jbu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jfku.edu/"
+    ],
+    "name": "John F. Kennedy University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jfku.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jhu.edu/"
+    ],
+    "name": "Johns Hopkins University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jh.edu",
+      "jhu.edu",
+      "johnshopkins.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jhuapl.edu/"
+    ],
+    "name": "Johns Hopkins University Applied Physics Laboratory",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jhuapl.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jwu.edu/"
+    ],
+    "name": "Johnson & Wales University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jwu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jbc.edu/"
+    ],
+    "name": "Johnson Bible College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jbc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jcsu.edu/"
+    ],
+    "name": "Johnson C. Smith University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jcsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.jones.edu/"
+    ],
+    "name": "Jones College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "jones.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.judson.edu/"
+    ],
+    "name": "Judson College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "judson.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.juniata.edu/"
+    ],
+    "name": "Juniata College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "juniata.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kzoo.edu/"
+    ],
+    "name": "Kalamazoo College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kzoo.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.k-state.edu/"
+    ],
+    "name": "Kansas State University",
+    "alpha_two_code": "US",
+    "state-province": "Kansas",
+    "domains": [
+      "ksu.edu",
+      "k-state.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kwu.edu/"
+    ],
+    "name": "Kansas Wesleyan University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kwu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kaplan.edu/"
+    ],
+    "name": "Kaplan University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kaplan.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kean.edu/"
+    ],
+    "name": "Kean College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kean.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.keene.edu/"
+    ],
+    "name": "Keene State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "keene.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kennesaw.edu/"
+    ],
+    "name": "Kennesaw State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kennesaw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kent.edu/"
+    ],
+    "name": "Kent State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kent.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kctcs.edu/"
+    ],
+    "name": "Kentucky Community & Technical College System",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kctcs.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kenyon.edu/"
+    ],
+    "name": "Kenyon College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kenyon.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kettering.edu/"
+    ],
+    "name": "Kettering University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kettering.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kings.edu/"
+    ],
+    "name": "King's College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kings.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.knox.edu/"
+    ],
+    "name": "Knox College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "knox.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.kutztown.edu/"
+    ],
+    "name": "Kutztown University of Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "kutztown.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lafayette.edu/"
+    ],
+    "name": "Lafayette College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lafayette.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lagrange.edu/"
+    ],
+    "name": "LaGrange College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lagrange.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lfc.edu/"
+    ],
+    "name": "Lake Forest College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lfc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lsc.edu/"
+    ],
+    "name": "Lake Superior College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lsc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lssu.edu/"
+    ],
+    "name": "Lake Superior State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lssu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lamar.edu/"
+    ],
+    "name": "Lamar University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lamar.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.langston.edu/"
+    ],
+    "name": "Langston University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "langston.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lasalle.edu/"
+    ],
+    "name": "LaSalle University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lasalle.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lasierra.edu/"
+    ],
+    "name": "La Sierra University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lasierra.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.ltu.edu/"
+    ],
+    "name": "Lawrence Technological University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ltu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lawrence.edu/"
+    ],
+    "name": "Lawrence University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lawrence.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lvc.edu/"
+    ],
+    "name": "Lebanon Valley College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lvc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lehigh.edu/"
+    ],
+    "name": "Lehigh University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lehigh.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lemoyne.edu/"
+    ],
+    "name": "Le Moyne College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lemoyne.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lenoircc.edu/"
+    ],
+    "name": "Lenoir Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lenoircc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lrc.edu/"
+    ],
+    "name": "Lenoir-Rhyne College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lrc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.letu.edu/"
+    ],
+    "name": "LeTourneau University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "letu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lclark.edu/"
+    ],
+    "name": "Lewis & Clark College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lclark.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lcsc.edu/"
+    ],
+    "name": "Lewis-Clark State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lcsc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lewisu.edu/"
+    ],
+    "name": "Lewis University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lewisu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.liberty.edu/"
+    ],
+    "name": "Liberty University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "liberty.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lincoln.edu/"
+    ],
+    "name": "Lincoln University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lincoln.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.linfield.edu/"
+    ],
+    "name": "Linfield College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "linfield.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://lockhaven.edu/"
+    ],
+    "name": "Lock Haven University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lhup.edu",
+      "lockhaven.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.llu.edu/"
+    ],
+    "name": "Loma Linda University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "llu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.liu.edu/"
+    ],
+    "name": "Long Island University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "liunet.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.longwood.edu/"
+    ],
+    "name": "Longwood University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "longwood.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.loras.edu/"
+    ],
+    "name": "Loras College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "loras.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.laccd.edu/"
+    ],
+    "name": "Los Angeles Community College District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "laccd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lacollege.edu/"
+    ],
+    "name": "Louisiana College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lacollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lsu.edu/"
+    ],
+    "name": "Louisiana State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lsua.edu/"
+    ],
+    "name": "Louisiana State University at Alexandria",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lsua.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.latech.edu/"
+    ],
+    "name": "Louisiana Tech University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "latech.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.loyola.edu/"
+    ],
+    "name": "Loyola College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "loyola.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lmu.edu/"
+    ],
+    "name": "Loyola Marymount University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lmu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.luc.edu/"
+    ],
+    "name": "Loyola University Chicago",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "luc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.luther.edu/"
+    ],
+    "name": "Luther College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "luther.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.luthersem.edu/"
+    ],
+    "name": "Luther Seminary",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "luthersem.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lycoming.edu/"
+    ],
+    "name": "Lycoming College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lycoming.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lynchburg.edu/"
+    ],
+    "name": "Lynchburg College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lynchburg.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lyndonstate.edu/"
+    ],
+    "name": "Lyndon State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lyndonstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.lyon.edu/"
+    ],
+    "name": "Lyon College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lyon.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.macalester.edu/"
+    ],
+    "name": "Macalester College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "macalester.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mum.edu/"
+    ],
+    "name": "Maharishi University of Management",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mum.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.malone.edu/"
+    ],
+    "name": "Malone College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "malone.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.manhattan.edu/"
+    ],
+    "name": "Manhattan College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "manhattan.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mansfield.edu/"
+    ],
+    "name": "Mansfield University of Pennsylvania",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "mansfield.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.marietta.edu/"
+    ],
+    "name": "Marietta College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "marietta.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.marist.edu/"
+    ],
+    "name": "Marist College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "marist.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.marlboro.edu/"
+    ],
+    "name": "Marlboro College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "marlboro.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.marquette.edu/"
+    ],
+    "name": "Marquette University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "marquette.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.marshall.edu/"
+    ],
+    "name": "Marshall University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "marshall.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mbc.edu/"
+    ],
+    "name": "Mary Baldwin College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mbc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mmm.edu/"
+    ],
+    "name": "Marymount Manhattan College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mmm.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.marymount.edu/"
+    ],
+    "name": "Marymount University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "marymount.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mwc.edu/"
+    ],
+    "name": "Mary Washington College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mwc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://web.mit.edu/"
+    ],
+    "name": "Massachusetts Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mit.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mcdaniel.edu"
+    ],
+    "name": "McDaniel College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mcdaniel.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www2.mcm.edu/"
+    ],
+    "name": "McMurry University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mcm.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mcneese.edu/"
+    ],
+    "name": "McNeese State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mcneese.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mcg.edu/"
+    ],
+    "name": "Medical College of Georgia",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mcg.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mcw.edu/"
+    ],
+    "name": "Medical College of Wisconsin",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mcw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mccc.edu/"
+    ],
+    "name": "Mercer County Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mccc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mercer.edu/"
+    ],
+    "name": "Mercer University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mercer.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mercy.edu/"
+    ],
+    "name": "Mercy College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mercymavericks.edu",
+      "mercy.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://mercyhurst.edu/"
+    ],
+    "name": "Mercyhurst University",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "mercyhurst.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.meredith.edu/"
+    ],
+    "name": "Meredith College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "meredith.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.messiah.edu/"
+    ],
+    "name": "Messiah College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "messiah.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mcckc.edu/"
+    ],
+    "name": "Metropolitan Community College (MO)",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mcckc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mccneb.edu/"
+    ],
+    "name": "Metropolitan Community College (NE)",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mccneb.edu"
+    ],
+    "country": "United States"
+  }
+]

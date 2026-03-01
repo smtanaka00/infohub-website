@@ -2,23 +2,26 @@ document.addEventListener('DOMContentLoaded', () => {
     const collegeSearchForm = document.getElementById('college-search-form');
     const resultsContainer = document.getElementById('results-container');
     const downloadButton = document.getElementById('download-shortlist-button');
+    let allColleges = [];
     let currentFilteredColleges = [];
 
-    const HIPOLABS_API_URL = 'http://universities.hipolabs.com/search';
-    const OPENDATASOFT_USA_API_URL = 'https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/us-colleges-and-universities/records';
-
-    const countryNameMapping = {
-        "usa": "United States",
-        "uk": "United Kingdom",
-        // Add other short codes from your dropdown if they differ from full names Hipolabs expects
-        // For example, if your dropdown has "uae", map it to "United Arab Emirates"
-    };
+    // Load colleges from local JSON
+    fetch('js/colleges.json')
+        .then(response => response.json())
+        .then(data => {
+            allColleges = data;
+            console.log(`Loaded ${allColleges.length} colleges.`);
+        })
+        .catch(error => {
+            console.error('Error loading colleges.json:', error);
+            resultsContainer.innerHTML = '<p class="no-results">Error loading university data. Please try again later.</p>';
+        });
 
     function formatWebsiteURL(url) {
-        if (!url || typeof url !== 'string' || url.trim() === '' || url.toLowerCase() === 'n/a') return '#';
+        if (!url || typeof url !== 'string' || url.trim() === '' || url.toLowerCase() === 'n/a' || url === '#') return '#';
         let formattedUrl = url.trim();
         if (!formattedUrl.startsWith('http://') && !formattedUrl.startsWith('https://')) {
-            formattedUrl = 'http://' + formattedUrl;
+            formattedUrl = 'https://' + formattedUrl;
         }
         return formattedUrl;
     }
@@ -53,78 +56,47 @@ document.addEventListener('DOMContentLoaded', () => {
                     <label for="comp-${uni.id}" style="font-size: 0.8rem; background: rgba(255,255,255,0.8); padding: 2px 5px; border-radius: 3px; cursor: pointer;">Compare</label>
                 </div>
                 <h3>${uni.name}</h3> 
-                <p>Country: ${uni.country}</p>
-                <p>Degree Level: ${uni.level.charAt(0).toUpperCase() + uni.level.slice(1)}</p>
-                <p>Domains: ${uni.domains}</p>
-                <a href="${uni.link}" target="_blank" class="program-link">Visit Website</a>
+                <p><strong>Country:</strong> ${uni.country} (${uni.region})</p>
+                <p><strong>City:</strong> ${uni.city || 'N/A'}</p>
+                <p><strong>Degrees:</strong> ${uni.levels.join(', ')}</p>
+                <div class="fields-tags" style="margin-top: 10px;">
+                    ${uni.fields.map(f => `<span class="tag" style="display: inline-block; background: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 12px; font-size: 0.75rem; margin: 2px;">${f}</span>`).join('')}
+                </div>
+                <a href="${formatWebsiteURL(uni.website)}" target="_blank" class="program-link" style="margin-top: 15px; display: inline-block;">Visit Website</a>
             `;
             resultsContainer.appendChild(collegeCard);
         });
     }
 
-    async function fetchUniversities(countryValue, fieldOfStudy, degreeLevel) {
+    collegeSearchForm.addEventListener('submit', (event) => {
+        event.preventDefault();
+        const countryFilter = document.getElementById('country').value.toLowerCase();
+        const fieldFilter = document.getElementById('field-of-study').value.toLowerCase();
+        const levelFilter = document.getElementById('degree-level').value.toLowerCase();
+
         const feedback = document.getElementById('search-feedback');
         feedback.style.display = 'block';
         resultsContainer.innerHTML = '';
-        downloadButton.style.display = 'none';
-        currentFilteredColleges = [];
 
-        if (!countryValue) {
+        // Standardize filtering logic
+        setTimeout(() => {
+            const results = allColleges.filter(uni => {
+                const matchesCountry = !countryFilter || 
+                                     uni.country.toLowerCase() === countryFilter || 
+                                     uni.region.toLowerCase() === countryFilter;
+                
+                const matchesField = !fieldFilter || 
+                                   uni.fields.some(f => f.toLowerCase().includes(fieldFilter));
+                
+                const matchesLevel = !levelFilter || 
+                                   uni.levels.some(l => l.toLowerCase() === levelFilter);
+                
+                return matchesCountry && matchesField && matchesLevel;
+            });
+
             feedback.style.display = 'none';
-            resultsContainer.innerHTML = '<p class="no-results">Please select a country to search.</p>';
-            return;
-        }
-
-        const searchCountry = countryValue.toLowerCase();
-
-        try {
-            let data = [];
-            if (searchCountry === 'usa') {
-                let queryParams = `limit=50`; 
-                if (fieldOfStudy) queryParams += `&q=${encodeURIComponent(fieldOfStudy)}`;
-                const response = await fetch(`${OPENDATASOFT_USA_API_URL}?${queryParams}`);
-                const result = await response.json();
-                if (result && result.records) {
-                    data = result.records.map(r => ({
-                        name: r.fields.instnm || 'N/A',
-                        country: 'USA',
-                        level: degreeLevel || r.fields.highdegr_label || 'N/A',
-                        link: formatWebsiteURL(r.fields.webaddr),
-                        domains: r.fields.webaddr || 'N/A'
-                    }));
-                }
-            } else {
-                const hipoCountry = countryNameMapping[searchCountry] || countryValue;
-                const response = await fetch(`${HIPOLABS_API_URL}?country=${encodeURIComponent(hipoCountry)}`);
-                const result = await response.json();
-                if (Array.isArray(result)) {
-                    data = result.map(uni => ({
-                        name: uni.name,
-                        country: uni.country,
-                        level: degreeLevel || 'N/A',
-                        link: uni.web_pages[0] || '#',
-                        domains: Array.isArray(uni.domains) ? uni.domains.join(', ') : uni.domains
-                    }));
-                    if (fieldOfStudy) {
-                        data = data.filter(uni => uni.name.toLowerCase().includes(fieldOfStudy));
-                    }
-                }
-            }
-            displayResults(data);
-        } catch (error) {
-            console.error('Search error:', error);
-            resultsContainer.innerHTML = '<p class="no-results">Sorry, something went wrong. Please try again later.</p>';
-        } finally {
-            feedback.style.display = 'none';
-        }
-    }
-
-    collegeSearchForm.addEventListener('submit', (event) => {
-        event.preventDefault();
-        const country = document.getElementById('country').value;
-        const fieldOfStudy = document.getElementById('field-of-study').value.toLowerCase();
-        const degreeLevel = document.getElementById('degree-level').value.toLowerCase();
-        fetchUniversities(country, fieldOfStudy, degreeLevel);
+            displayResults(results);
+        }, 300); // Tiny delay for UX feel
     });
 
     document.getElementById('clear-filters').addEventListener('click', () => {
@@ -299,16 +271,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const features = [
             { label: 'Country', key: 'country' },
-            { label: 'Level', key: 'level' },
-            { label: 'Website', key: 'web_pages', isLink: true }
+            { label: 'Region', key: 'region' },
+            { label: 'City', key: 'city' },
+            { label: 'Degrees', key: 'levels', isList: true },
+            { label: 'Website', key: 'website', isLink: true }
         ];
 
         features.forEach(f => {
             tableHtml += `<tr><td style="padding: 15px; border: 1px solid #ddd; font-weight: 600;">${f.label}</td>`;
             selectedColleges.forEach(c => {
                 let val = c[f.key];
-                if (f.isLink && val && val.length > 0) {
-                    val = `<a href="${val[0]}" target="_blank">Visit Site</a>`;
+                if (f.isLink && val && val !== '#') {
+                    val = `<a href="${formatWebsiteURL(val)}" target="_blank">Visit Site</a>`;
+                } else if (f.isList && Array.isArray(val)) {
+                    val = val.join(', ');
                 }
                 tableHtml += `<td style="padding: 15px; border: 1px solid #ddd;">${val || 'N/A'}</td>`;
             });
@@ -319,7 +295,4 @@ document.addEventListener('DOMContentLoaded', () => {
         comparisonTableContainer.innerHTML = tableHtml;
         comparisonModal.style.display = 'block';
     });
-
-    // We also need to update the displayColleges function to include checkboxes
-    // I will do that in a separate multi_replace call to be safe
 });
