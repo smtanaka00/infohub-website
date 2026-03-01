@@ -220,8 +220,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const navLinks = nav.querySelectorAll('ul li a');
         navLinks.forEach(link => {
-            link.addEventListener('click', () => {
-                if (nav.classList.contains('open')) {
+            link.addEventListener('click', (e) => {
+                const parentLi = link.parentElement;
+                if (parentLi.classList.contains('has-dropdown') && window.innerWidth <= 768) {
+                    e.preventDefault();
+                    parentLi.classList.toggle('active');
+                } else if (nav.classList.contains('open')) {
                     toggleMenu();
                 }
             });

@@ -27,8 +27,19 @@
                     <li><a href="about.html">About Us</a></li>
                     <li><a href="services.html">Services</a></li>
                     <li><a href="test-prep.html">Test Prep</a></li>
-                    <li><a href="college-search.html">College Search</a></li>
-                    <li><a href="resources.html">Resources</a></li>
+                    <li class="has-dropdown">
+                        <a href="resources.html" class="dropdown-toggle">Resources <svg
+                                xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <path d="M6 9l6 6 6-6" />
+                            </svg></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="resources.html#articles">Articles & Guides</a></li>
+                            <li><a href="resources.html#brochures">Official Brochures</a></li>
+                            <li><a href="resources.html#college-search">College Search</a></li>
+                        </ul>
+                    </li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </nav>
@@ -39,139 +50,258 @@
     <main id="main-content">
         <section class="resources-hero">
             <div class="container">
-                <h1>Resources & Blog</h1>
-                <p>Access valuable guides, tips, and insights to help you on your study abroad and career journey.</p>
+                <h1>Resources & College Search</h1>
+                <p>Access valuable guides, download official brochures, or find your dream university using our global
+                    search tool.</p>
             </div>
         </section>
 
-        <section class="resource-list">
-            <div class="container">
-                <h2>Latest Articles & Guides</h2>
-                <div class="articles-grid">
-                    <div class="article-card">
-                        <img src="images/article-funding.jpg" alt="Funding Tips">
-                        <h3>Funding Your Study Abroad: A Comprehensive Guide</h3>
-                        <p>Discover various scholarship opportunities, grants, and budgeting strategies to make your
-                            international education affordable.</p>
-                        <a href="blog/funding-guide.html" class="read-more">Read More</a>
-                    </div>
-                    <div class="article-card">
-                        <img src="images/article-personal-statement.jpg" alt="Personal Statement">
-                        <h3>How to Write a Winning Personal Statement</h3>
-                        <p>Learn the secrets to crafting a compelling personal statement that captures attention and
-                            showcases your unique story.</p>
-                        <a href="blog/personal-statement.html" class="read-more">Read More</a>
-                    </div>
-                    <div class="article-card">
-                        <img src="images/article-poland-guide.jpg" alt="Poland Guide">
-                        <h3>Study in Poland: Your Complete Application Guide</h3>
-                        <p>Everything you need to know about applying to universities in Poland, from requirements to
-                            student life.</p>
-                        <a href="blog/poland-guide.html" class="read-more">Read More</a>
-                    </div>
-                    <div class="article-card">
-                        <img src="images/article-visa-tips.jpg" alt="Visa Tips">
-                        <h3>Visa Application Tips for International Students</h3>
-                        <p>Navigate the visa process with ease using our expert tips and common pitfalls to avoid.</p>
-                        <a href="blog/visa-tips.html" class="read-more">Read More</a>
-                    </div>
+        <div class="container">
+            <div class="tab-container">
+                <div class="tab-buttons">
+                    <button class="tab-btn active" data-tab="articles">Articles & Guides</button>
+                    <button class="tab-btn" data-tab="brochures">Official Brochures</button>
+                    <button class="tab-btn" data-tab="college-search">College Search</button>
                 </div>
-            </div>
-        </section>
 
-        <section class="downloadable-resources reveal">
-            <div class="container">
-                <h2>Free PDF Guides</h2>
-                <div class="downloads-grid">
-                    <div class="download-card">
-                        <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📄</div>
-                        <h3>Scholarship Application Checklist</h3>
-                        <p>A step-by-step list to ensure you don't miss any critical deadline or document.</p>
-                        <button class="primary-cta-button download-trigger" data-guide="Scholarship Checklist">Download
-                            PDF Guide</button>
-                    </div>
-                    <div class="download-card">
-                        <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📄</div>
-                        <h3>Study Abroad Budget Planner</h3>
-                        <p>Calculate your estimated costs and plan your finances for studying in Poland or Canada.</p>
-                        <button class="primary-cta-button download-trigger" data-guide="Budget Planner">Download PDF
-                            Planner</button>
-                    </div>
-                    <div class="download-card">
-                        <div class="card-icon" style="font-size: 3rem; margin-bottom: 20px;">🧮</div>
-                        <h3>Interactive Cost Calculator</h3>
-                        <p>Plan your budget by estimating tuition and living expenses for your destination.</p>
-                        <a href="calculator.html" class="primary-cta-button"
-                            style="text-decoration: none; display: inline-block;">Use Calculator</a>
-                    </div>
-                </div>
-            </div>
-        </section>
+                <div id="articles" class="tab-content active">
+                    <section class="resource-list">
+                        <h2>Latest Articles & Guides</h2>
+                        <div class="articles-grid">
+                            <div class="article-card">
+                                <img src="images/article-funding.jpg" alt="Funding Tips">
+                                <h3>Funding Your Study Abroad: A Comprehensive Guide</h3>
+                                <p>Discover various scholarship opportunities, grants, and budgeting strategies to make
+                                    your
+                                    international education affordable.</p>
+                                <a href="blog/funding-guide.html" class="read-more">Read More</a>
+                            </div>
+                            <div class="article-card">
+                                <img src="images/article-personal-statement.jpg" alt="Personal Statement">
+                                <h3>How to Write a Winning Personal Statement</h3>
+                                <p>Learn the secrets to crafting a compelling personal statement that captures attention
+                                    and
+                                    showcases your unique story.</p>
+                                <a href="blog/personal-statement.html" class="read-more">Read More</a>
+                            </div>
+                            <div class="article-card">
+                                <img src="images/article-poland-guide.jpg" alt="Poland Guide">
+                                <h3>Study in Poland: Your Complete Application Guide</h3>
+                                <p>Everything you need to know about applying to universities in Poland, from
+                                    requirements to
+                                    student life.</p>
+                                <a href="blog/poland-guide.html" class="read-more">Read More</a>
+                            </div>
+                            <div class="article-card">
+                                <img src="images/article-visa-tips.jpg" alt="Visa Tips">
+                                <h3>Visa Application Tips for International Students</h3>
+                                <p>Navigate the visa process with ease using our expert tips and common pitfalls to
+                                    avoid.</p>
+                                <a href="blog/visa-tips.html" class="read-more">Read More</a>
+                            </div>
+                        </div>
+                    </section>
 
-        <section class="official-brochures reveal bg-light-gray" style="padding: 60px 0;">
-            <div class="container">
-                <h2>Official Brochures & Booklets</h2>
-                <p style="text-align: center; margin-bottom: 40px;">Download our detailed service brochures and
-                    mentorship booklets for offline reading.</p>
-                <div class="downloads-grid">
-                    <div class="download-card">
-                        <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📘</div>
-                        <h3>InfoHub General Brochure</h3>
-                        <p>A comprehensive overview of all our study abroad and career services.</p>
-                        <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
-                            <a href="brochures/Info Hub Brochure.pdf" target="_blank" class="secondary-cta-button"
-                                style="padding: 10px 15px; font-size: 0.9rem;">View</a>
-                            <a href="brochures/Info Hub Brochure.pdf" download class="primary-cta-button"
-                                style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+                    <section class="downloadable-resources reveal">
+                        <h2>Free PDF Guides</h2>
+                        <div class="downloads-grid">
+                            <div class="download-card">
+                                <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📄</div>
+                                <h3>Scholarship Application Checklist</h3>
+                                <p>A step-by-step list to ensure you don't miss any critical deadline or document.</p>
+                                <button class="primary-cta-button download-trigger"
+                                    data-guide="Scholarship Checklist">Download
+                                    PDF Guide</button>
+                            </div>
+                            <div class="download-card">
+                                <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📄</div>
+                                <h3>Study Abroad Budget Planner</h3>
+                                <p>Calculate your estimated costs and plan your finances for studying in Poland or
+                                    Canada.</p>
+                                <button class="primary-cta-button download-trigger" data-guide="Budget Planner">Download
+                                    PDF
+                                    Planner</button>
+                            </div>
+                            <div class="download-card">
+                                <div class="card-icon" style="font-size: 3rem; margin-bottom: 20px;">🧮</div>
+                                <h3>Interactive Cost Calculator</h3>
+                                <p>Plan your budget by estimating tuition and living expenses for your destination.</p>
+                                <a href="calculator.html" class="primary-cta-button"
+                                    style="text-decoration: none; display: inline-block;">Use Calculator</a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="download-card">
-                        <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">🎓</div>
-                        <h3>Masters Mentorship Booklet</h3>
-                        <p>Detailed guide for students pursuing postgraduate studies internationally.</p>
-                        <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
-                            <a href="brochures/Info Hub Masters Mentorship Booklet.pdf" target="_blank"
-                                class="secondary-cta-button" style="padding: 10px 15px; font-size: 0.9rem;">View</a>
-                            <a href="brochures/Info Hub Masters Mentorship Booklet.pdf" download
-                                class="primary-cta-button" style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+                    </section>
+                </div>
+
+                <div id="brochures" class="tab-content">
+                    <section class="official-brochures">
+                        <h2>Official Brochures & Booklets</h2>
+                        <p style="text-align: center; margin-bottom: 40px;">Download our detailed service brochures and
+                            mentorship booklets for offline reading.</p>
+                        <div class="downloads-grid">
+                            <div class="download-card">
+                                <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📘</div>
+                                <h3>InfoHub General Brochure</h3>
+                                <p>A comprehensive overview of all our study abroad and career services.</p>
+                                <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
+                                    <a href="brochures/Info Hub Brochure.pdf" target="_blank"
+                                        class="secondary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">View</a>
+                                    <a href="brochures/Info Hub Brochure.pdf" download class="primary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+                                </div>
+                            </div>
+                            <div class="download-card">
+                                <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">🎓</div>
+                                <h3>Masters Mentorship Booklet</h3>
+                                <p>Detailed guide for students pursuing postgraduate studies internationally.</p>
+                                <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
+                                    <a href="brochures/Info Hub Masters Mentorship Booklet.pdf" target="_blank"
+                                        class="secondary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">View</a>
+                                    <a href="brochures/Info Hub Masters Mentorship Booklet.pdf" download
+                                        class="primary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+                                </div>
+                            </div>
+                            <div class="download-card">
+                                <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📔</div>
+                                <h3>Undergraduate Mentorship Booklet</h3>
+                                <p>Your roadmap to successful undergraduate applications and transition.</p>
+                                <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
+                                    <a href="brochures/Info Hub Mentorship Booklet.pdf" target="_blank"
+                                        class="secondary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">View</a>
+                                    <a href="brochures/Info Hub Mentorship Booklet.pdf" download
+                                        class="primary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+                                </div>
+                            </div>
+                            <div class="download-card">
+                                <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">👗</div>
+                                <h3>Ladies Events Brochure</h3>
+                                <p>Specialized programs and networking events tailored for our female students.</p>
+                                <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
+                                    <a href="brochures/Info Hub Ladies Events.pdf" target="_blank"
+                                        class="secondary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">View</a>
+                                    <a href="brochures/Info Hub Ladies Events.pdf" download class="primary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+                                </div>
+                            </div>
+                            <div class="download-card">
+                                <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📋</div>
+                                <h3>InfoHub Company Profile</h3>
+                                <p>Learn more about our mission, vision, and the values that drive us.</p>
+                                <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
+                                    <a href="brochures/Info Hub Profile.pdf" target="_blank"
+                                        class="secondary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">View</a>
+                                    <a href="brochures/Info Hub Profile.pdf" download class="primary-cta-button"
+                                        style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="download-card">
-                        <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📔</div>
-                        <h3>Undergraduate Mentorship Booklet</h3>
-                        <p>Your roadmap to successful undergraduate applications and transition.</p>
-                        <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
-                            <a href="brochures/Info Hub Mentorship Booklet.pdf" target="_blank"
-                                class="secondary-cta-button" style="padding: 10px 15px; font-size: 0.9rem;">View</a>
-                            <a href="brochures/Info Hub Mentorship Booklet.pdf" download class="primary-cta-button"
-                                style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+                    </section>
+                </div>
+
+                <div id="college-search" class="tab-content">
+                    <section class="college-search-section">
+                        <div class="search-filters">
+                            <h2>Find Your Dream University</h2>
+                            <p style="text-align: center; margin-bottom: 30px;">Explore thousands of programs worldwide.
+                                Filter by country, field of study, and degree level to find your perfect match.</p>
+
+                            <form id="college-search-form">
+                                <div class="filter-group">
+                                    <label for="country">Country:</label>
+                                    <select id="country" name="country">
+                                        <option value="">Select Country</option>
+                                        <option value="usa">USA</option>
+                                        <option value="uk">UK</option>
+                                        <option value="canada">Canada</option>
+                                        <option value="australia">Australia</option>
+                                        <option value="germany">Germany</option>
+                                    </select>
+                                </div>
+                                <div class="filter-group">
+                                    <label for="field-of-study">Field of Study:</label>
+                                    <input type="text" id="field-of-study" name="field-of-study"
+                                        placeholder="e.g., Computer Science, Business">
+                                </div>
+                                <div class="filter-group">
+                                    <label for="degree-level">Degree Level:</label>
+                                    <select id="degree-level" name="degree-level">
+                                        <option value="">Select Level</option>
+                                        <option value="bachelor">Bachelor's</option>
+                                        <option value="masters">Master's</option>
+                                        <option value="phd">PhD</option>
+                                        <option value="diploma">Diploma</option>
+                                    </select>
+                                </div>
+                                <div class="filter-group">
+                                    <label for="sort-by">Sort By:</label>
+                                    <select id="sort-by" name="sort-by">
+                                        <option value="name-asc">Name (A-Z)</option>
+                                        <option value="name-desc">Name (Z-A)</option>
+                                    </select>
+                                </div>
+                                <div class="search-actions">
+                                    <button type="submit" class="primary-cta-button">Search Programs</button>
+                                    <button type="button" id="save-search" class="secondary-cta-button">Save
+                                        Search</button>
+                                    <button type="button" id="clear-filters" class="secondary-cta-button">Clear
+                                        Filters</button>
+                                </div>
+                            </form>
+                            <div id="saved-searches-container" class="saved-searches" style="margin-top: 20px;">
+                                <h3>My Saved Searches</h3>
+                                <div id="saved-searches-list" class="saved-searches-list">
+                                    <p class="no-saved">No saved searches yet.</p>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="download-card">
-                        <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">👗</div>
-                        <h3>Ladies Events Brochure</h3>
-                        <p>Specialized programs and networking events tailored for our female students.</p>
-                        <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
-                            <a href="brochures/Info Hub Ladies Events.pdf" target="_blank" class="secondary-cta-button"
-                                style="padding: 10px 15px; font-size: 0.9rem;">View</a>
-                            <a href="brochures/Info Hub Ladies Events.pdf" download class="primary-cta-button"
-                                style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
+
+                        <div class="search-results">
+                            <h2>Search Results</h2>
+                            <div id="search-feedback" style="display: none; text-align: center; margin-bottom: 20px;">
+                                <div class="pulse-loader"></div>
+                                <p>Fetching amazing opportunities...</p>
+                            </div>
+                            <div id="results-container" class="results-grid">
+                                <p class="no-results">Use the filters above to find programs.</p>
+                            </div>
+
+                            <div id="comparison-bar" class="comparison-bar" style="display: none;">
+                                <div class="comparison-info">
+                                    <span id="comparison-count">0</span> programs selected for comparison
+                                </div>
+                                <div class="comparison-actions">
+                                    <button id="compare-now" class="primary-cta-button">Compare Now</button>
+                                    <button id="clear-comparison" class="secondary-cta-button">Clear All</button>
+                                </div>
+                            </div>
+
+                            <div id="comparison-modal" class="modal">
+                                <div class="modal-content" style="max-width: 900px; width: 95%;">
+                                    <span class="close-modal">&times;</span>
+                                    <h2>University Comparison</h2>
+                                    <div id="comparison-table-container" style="overflow-x: auto;">
+                                        <!-- Comparison table will be injected here -->
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="download-shortlist-container">
+                                <button id="download-shortlist-button" class="primary-cta-button"
+                                    style="display: none;">Download
+                                    Shortlist (PDF)</button>
+                            </div>
                         </div>
-                    </div>
-                    <div class="download-card">
-                        <div class="card-icon" style="font-size: 3rem; margin-bottom: 15px;">📋</div>
-                        <h3>InfoHub Company Profile</h3>
-                        <p>Learn more about our mission, vision, and the values that drive us.</p>
-                        <div class="cta-group" style="display: flex; gap: 10px; justify-content: center;">
-                            <a href="brochures/Info Hub Profile.pdf" target="_blank" class="secondary-cta-button"
-                                style="padding: 10px 15px; font-size: 0.9rem;">View</a>
-                            <a href="brochures/Info Hub Profile.pdf" download class="primary-cta-button"
-                                style="padding: 10px 15px; font-size: 0.9rem;">Download</a>
-                        </div>
-                    </div>
+                    </section>
                 </div>
             </div>
-        </section>
+        </div>
 
         <!-- Email Gate Modal -->
         <div id="download-modal" class="modal">
@@ -231,6 +361,8 @@
         </div>
     </footer>
     <script src="js/ui-enhancements.js"></script>
+    <script src="js/tabs.js"></script>
+    <script src="js/college-search.js"></script>
 </body>
 
 </html>

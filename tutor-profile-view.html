@@ -16,14 +16,30 @@
     <header>
         <div class="container">
             <div class="logo"><a href="index.html"><img src="images/infohub-logo.png" alt="InfoHub Logo"></a></div>
+            <button class="hamburger" aria-label="Toggle navigation" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
             <nav>
                 <ul>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="about.html">About Us</a></li>
                     <li><a href="services.html">Services</a></li>
                     <li><a href="test-prep.html">Test Prep</a></li>
-                    <li><a href="college-search.html">College Search</a></li>
-                    <li><a href="resources.html">Resources</a></li>
+                    <li class="has-dropdown">
+                        <a href="resources.html" class="dropdown-toggle">Resources <svg
+                                xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <path d="M6 9l6 6 6-6" />
+                            </svg></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="resources.html#articles">Articles & Guides</a></li>
+                            <li><a href="resources.html#brochures">Official Brochures</a></li>
+                            <li><a href="resources.html#college-search">College Search</a></li>
+                        </ul>
+                    </li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </nav>
@@ -77,6 +93,7 @@
             <p class="copyright">© 2023 InfoHub. All Rights Reserved.</p>
         </div>
     </footer>
+    <script src="js/ui-enhancements.js"></script>
     <script src="js/view-tutor.js"></script>
 </body>
 

@@ -1754,3 +1754,138 @@ textarea:focus {
     /* Adjust as needed */
     padding: 20px 25px;
 }
+
+/* Tabbed Interface Styles */
+.tab-container {
+    margin: 40px 0;
+}
+
+.tab-buttons {
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid var(--border-color);
+    margin-bottom: 30px;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.tab-btn {
+    padding: 12px 25px;
+    background: none;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    color: var(--dark-text);
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+.tab-btn:hover {
+    color: var(--primary-purple);
+}
+
+.tab-btn.active {
+    color: var(--primary-purple);
+}
+
+.tab-btn.active::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: var(--primary-purple);
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+    animation: fadeIn 0.4s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Dropdown Navigation Styles */
+nav ul li {
+    position: relative;
+}
+
+.dropdown-toggle {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--light-bg);
+    min-width: 200px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    padding: 10px 0;
+    border-radius: 4px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: all 0.3s ease;
+    z-index: 100;
+    display: block;
+    /* Overrides flex from parent ul in desktop */
+}
+
+nav ul li:hover .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.dropdown-menu li {
+    margin: 0 !important;
+    display: block;
+}
+
+.dropdown-menu li a {
+    padding: 10px 20px;
+    display: block;
+    font-size: 0.95rem !important;
+}
+
+.dropdown-menu li a:hover {
+    background-color: rgba(103, 58, 183, 0.1);
+    color: var(--primary-purple);
+}
+
+/* Mobile Dropdown Adjustments */
+@media (max-width: 768px) {
+    .dropdown-menu {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        box-shadow: none;
+        padding-left: 20px;
+        display: none;
+        /* Controlled via JS or just always visible in expanded menu */
+    }
+
+    nav ul li.active .dropdown-menu {
+        display: block;
+    }
+}
